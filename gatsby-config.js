@@ -9,7 +9,7 @@ module.exports = {
     title: "elait! (SM City North Edsa)",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/AUVB-KNTY-2020-I102",
+  pathPrefix: "/AUVB-KNTY-2020-I02",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
